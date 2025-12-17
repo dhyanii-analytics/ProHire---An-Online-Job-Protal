@@ -1,0 +1,4 @@
+# Custom error pages
+ErrorDocument 404 /ProHire/error.php?code=404
+ErrorDocument 403 /ProHire/error.php?code=403
+ErrorDocument 500 /ProHire/error.php?code=500
