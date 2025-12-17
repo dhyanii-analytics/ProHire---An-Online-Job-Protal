@@ -3,6 +3,13 @@
 ProHire is a comprehensive, full-stack web application designed to bridge the gap between job seekers and employers. Built using the **LAMP stack** (Linux, Apache, MySQL, PHP), it provides a robust platform for job seekers to find opportunities and for employers to manage their hiring pipeline efficiently.
 
 ---
+## 📸 Project Gallery
+| Home Hero Section | Features Overview |
+| :---: | :---: |
+| ![Hero](index.png) | ![Features](index1.png) |
+| **Featured Job Listings** | **Testimonials & Footer** |
+| ![Jobs](index2.png) | ![Testimonials](index3.png) |
+
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
