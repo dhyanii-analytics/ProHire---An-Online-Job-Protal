@@ -75,5 +75,17 @@ ProHire is a comprehensive, full-stack web application designed to bridge the ga
 
 ---
 
+## 🔑 Sample Data for Testing
+
+To explore the different functionalities of the portal without registering, use the following credentials:
+
+| Role | Username / Email | Password |
+| :--- | :--- | :--- |
+| **🛡️ Admin** | `admin` | `admin123` |
+| **🏢 Company** | `company@techsolutions.com` | `company123` |
+| **👤 User** | `john@example.com` | `user123` |
+
+---
+
 ## 🤝 Contact
 If you have any questions or want to collaborate on this project, feel free to reach out via my GitHub profile!
